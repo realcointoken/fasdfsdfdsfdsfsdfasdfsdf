@@ -1,0 +1,19 @@
+{
+  "name": "TRYB",
+  "symbol": "Bilira",
+  "denomination": 6,
+  "fee": 0,
+  "minterSet": [
+    { "minters": ["X-AMGiuSSTnWUBoYvSrA5fRvzNmRuJXHTH8"], "threshold": 1 },
+    {
+      "minters": [
+        "X-PzkykQ8Qbf7nG4nwEfEEoAinFcT8E8zNE",
+        "X-4ZsrgpwkfbX88Aw3bkZCG2TX6SViNjLJn"
+      ],
+      "threshold": 2
+    }
+  ],
+  "mintAddress": "X-AMGiuSSTnWUBoYvSrA5fRvzNmRuJXHTH8",
+  "mintAmount": 10000,
+  "id": "2Crrd2dangpW9RFw1NJiXfRYb9DCDw46UQMrQ2q1PqL2jF7YBC"
+}
